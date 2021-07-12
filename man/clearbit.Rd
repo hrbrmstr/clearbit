@@ -6,7 +6,7 @@
 \alias{clearbit-package}
 \title{...}
 \description{
-A good description goes here otherwise CRAN checks fail.
+Clearbit provides an interface to perform queries on organizations and people.
 }
 \seealso{
 Useful links:

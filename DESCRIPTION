@@ -1,6 +1,6 @@
 Package: clearbit
 Type: Package
-Title: clearbit Title Goes Here Otherwise CRAN Checks Fail
+Title: Tools to Query Clearbit
 Version: 0.1.0
 Date: 2021-07-09
 Authors@R: c(
@@ -8,11 +8,11 @@ Authors@R: c(
            comment = c(ORCID = "0000-0001-5670-2640"))
   )
 Maintainer: Bob Rudis <bob@rud.is>
-Description: A good description goes here otherwise CRAN checks fail.
+Description: Clearbit provides an interface to perform queries on organizations and people.
 URL: https://git.rud.is/hrbrmstr/clearbit
 BugReports: https://git.rud.is/hrbrmstr/clearbit/issues
 Encoding: UTF-8
-License: AGPL
+License: MIT + file LICENSE
 Suggests: 
     covr, tinytest
 Depends: 
